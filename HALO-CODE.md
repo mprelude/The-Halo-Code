@@ -110,6 +110,8 @@ These actions are explicitly prohibited in PROJECT SPACES (*comments in italics 
 
 * Inciting others to perform any of the activities specified in sections 2.2.1, 2.2.2, 2.2.3, 2.2.4 or 2.2.5 against a person.
 * Posting suspected transgressions of THE CODE in a public space, instead of handling it through the correct channels (see section 3).
+* Seeking, inciting or furthering communal reinforcement (*https://en.wikipedia.org/w/index.php?title=Communal_reinforcement&oldid=689645064*)
+* Attempting to exert social pressure in a way that encourages others to perform actions 2.2.1, 2.2.2, 2.2.3, 2.2.4 or 2.2.5  (*http://dictionary.reference.com/browse/peer-pressure*)
 
 ### 2.3 Topics of Discussion
 
