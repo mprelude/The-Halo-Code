@@ -25,4 +25,4 @@ To adopt The Halo Code:
 
 ## License
 
-The Halo Code is public domain under the CC0 license. Please see the LICENSE file for full terms & conditions.
+See [the LICENSE file](https://github.com/mprelude/The-Halo-Code/blob/master/LICENSE) for details.
